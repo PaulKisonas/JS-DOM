@@ -1,38 +1,38 @@
 {
-    "phones": [
+    "bikes": [
         {
-            "brand": "NOKIA",
-            "model": "800C",
-            "year": "2012",
-            "have5G": false,
+            "brand": "Kona",
+            "model": "Kahuda DL",
+            "year": "2023",
+            "electric": false,
             "id": 1
         },
         {
-            "brand": "Xiaomi",
-            "model": "12 Pro",
-            "year": "2022",
-            "have5G": true,
+            "brand": "Kona",
+            "model": "Lava Dome",
+            "year": "2023",
+            "electric": false,
             "id": 2
         },
         {
-            "brand": "Samsung",
-            "model": "Galaxy Note 10 Lite",
-            "year": "2020",
-            "have5G": true,
+            "brand": "Merida",
+            "model": "Ebig Tour 400 EQ",
+            "year": "2023",
+            "electric": true,
             "id": 3
         },
         {
-            "brand": "Sony",
-            "model": "Xperia XZ Premium",
-            "year": "2017",
-            "have5G": false,
+            "brand": "BMC",
+            "model": "Twostroke 01 ONE",
+            "year": "2023",
+            "electric": false,
             "id": 4
         },
         {
-            "brand": "TCL",
-            "model": "20 Pro",
-            "year": "2021",
-            "have5G": true,
+            "brand": "Santa Cruz",
+            "model": "Heckler",
+            "year": "2023",
+            "electric": true,
             "id": 5
         }
     ]
