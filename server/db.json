@@ -13,6 +13,13 @@
       "year": "2023",
       "electric": false,
       "id": 2
+    },
+    {
+      "brand": "Santa Cruz",
+      "model": "Heckler",
+      "year": "2023",
+      "electric": true,
+      "id": 3
     }
   ]
 }
